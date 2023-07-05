@@ -18,7 +18,7 @@ const Navigation = ({ account, setAccount }) => {
       <div className="nav__brand">
         <Image src={logo} alt="Logo" />
 
-        <h1>ETH Daddy</h1>
+        <h1>Domain Store</h1>
         <ul className="nav__links">
           <li>
             <Link href="/">
